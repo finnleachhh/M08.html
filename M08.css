@@ -12,7 +12,7 @@ body {
 	/* Responsive page rules at bottom of style sheet */
 
 h1 {
-	background-image: url(https://cloud-hnujfnwmy-hack-club-bot.vercel.app/0kinglogo.png);
+	background-image: url('https://cloud-hnujfnwmy-hack-club-bot.vercel.app/0kinglogo.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	text-align: center;
