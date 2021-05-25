@@ -12,7 +12,7 @@ body {
 	/* Responsive page rules at bottom of style sheet */
 
 h1 {
-	background-image: url('https://cloud-hnujfnwmy-hack-club-bot.vercel.app/0kinglogo.png');
+	background-image: url(https://cloud-hnujfnwmy-hack-club-bot.vercel.app/0kinglogo.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	text-align: center;
@@ -81,6 +81,7 @@ li {
 .complete {
   background-color: #999;
 	color: #fff;
+	background-image: url("../images/icon-trash.png");
 	background-position: center, right;
 	background-repeat: no-repeat;
 	border-top: 1px solid #666;
@@ -89,6 +90,7 @@ li {
 li a {
 	color: #fff;
 	text-decoration: none;
+	background-image: url("../images/icon-link.png");
 	background-position: center, right;
 	background-repeat: no-repeat;
     padding-right: 36px;}
